@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="bg-white px-8 py-16 flex flex-col items-center text-center">
       <div
         className="max-w-4xl p-8 rounded-2xl bg-green-500 bg-cover bg-center text-white"
-        style={{ backgroundImage: "url('')" }} 
+        style={{ backgroundImage: "url('/Hero.png')" }} 
       >
         <h1 className="text-4xl font-bold mb-4 drop-shadow-md">
           Your AI Study Partner for SEE Success
